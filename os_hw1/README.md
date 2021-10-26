@@ -12,3 +12,8 @@
 
 ### 이하 코드 설명 일부
 ![1](https://user-images.githubusercontent.com/77635421/138823659-5e30a1f8-8ea5-4acb-9d2d-31526c7eeca9.jpg)
+
+![2](https://user-images.githubusercontent.com/77635421/138823717-989a9f22-57a2-47c9-a093-12cf95535f4e.jpg)
+
+![3](https://user-images.githubusercontent.com/77635421/138823725-3015cddb-325b-4064-82d7-ad51c515abed.jpg)
+
