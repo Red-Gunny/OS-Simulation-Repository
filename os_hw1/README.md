@@ -11,6 +11,4 @@
 ###### 2. IO Done 메커니즘 대폭 수정 (과제 명세사항을 잘못 이해했음)
 
 ### 이하 코드 설명 일부
-https://user-images.githubusercontent.com/77635421/138823396-6ae1f9fa-0b45-497f-a2b0-e160e357c552.jpg
-https://user-images.githubusercontent.com/77635421/138823517-eda47919-1197-44fe-9933-c32965194d88.jpg
-https://user-images.githubusercontent.com/77635421/138823585-d5e7dab4-fa73-4d8f-8723-4c974b01df19.jpg
+![1](https://user-images.githubusercontent.com/77635421/138823659-5e30a1f8-8ea5-4acb-9d2d-31526c7eeca9.jpg)
